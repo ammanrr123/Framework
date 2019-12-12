@@ -1,0 +1,4 @@
+#Login Page
+input_UserName=//*[@id='userid']
+input_Password=//*[@id='password']
+click_Login=//*[@id='logonform']/table/tbody/tr[4]/td/input
