@@ -10,8 +10,8 @@ public class Constants {
     //Declared as 'final', so that the value of this variable can be changed
     // 'String' & 'int' are the data type for storing a type of value	
 	public static final String URL = "http://ushoucwsys01vt/logon";
-	public static final String Path_TestData = "C://Users//ammanrr.CORP//Test2.xlsx";
-	public static final String Path_OR="C://Users//ammanrr.CORP//eclipse-workspace//Framework//src//config//OR.txt";
+	public static final String Path_TestData = "C://Users//ammanrr//Test2.xlsx";
+	public static final String Path_OR="C://Users//ammanrr//eclipse-workspace//Framework//src//config//OR.txt";
 	public static final String File_TestData = "Test2.xlsx";
 	public static final String KEYWORD_FAIL = "FAIL";
 	public static final String KEYWORD_PASS = "PASS";

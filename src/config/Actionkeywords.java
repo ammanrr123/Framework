@@ -31,7 +31,7 @@ public class Actionkeywords {
 			else if(data.equals("chrome"))
 			{
 				
-		System.setProperty("webdriver.chrome.driver","C://Users//ammanrr.CORP//Downloads//chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver","C://Users//ammanrr//Downloads//chromedriver.exe");
    	    driver = new ChromeDriver(); 
    	    driver.manage().window().maximize();
    	    driver.manage().deleteAllCookies();
